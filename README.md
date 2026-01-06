@@ -52,7 +52,7 @@ Evaluation is conducted at two spatial scales:
 - County level
 - State level
 
- Results
+** Results**
 
 | Spatial Scale | MAE  | RMSE | R²  |
 |--------------|------|------|-----|
